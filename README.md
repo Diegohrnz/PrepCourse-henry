@@ -1,2 +1,1 @@
-# PrepCourse-henry
-Repositorio de prueba del modulo 2 - PrepCourse-henry
+este proyecto es una prueba de como crear un archivo desde github cloud
